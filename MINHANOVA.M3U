@@ -1,0 +1,1672 @@
+
+#EXTM3U
+
+#EXTINF:-1,Power Couple Brasil
+http://free-srv3.pjtiptv.tk/live/power/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Estúdio 96.5 FM Rio de Janeiro - RJ
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+#EXTINF:-1,RBC TV
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Novo Tempo SP
+http://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Novo Tempo RS
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Canção Nova
+http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Canção Nova HD
+http://origin-02.nxplay.com.br/CANCAO_NOVA_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Plenitude TV
+https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Gospel Movies Television
+http://stmv1.srvstm.com:1935/gospelf2/gospelf2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Gospel Music Television
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Verdade
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Terceiro Anjo
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Canal Saúde
+http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNT SP
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNT RJ
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNT RS
+http://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNT PR
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNT DF
+http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNT BA
+http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,UFG TV
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1096000.m3u8
+#EXTINF:-1,Rede Família HD
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8
+#EXTINF:-1,Canal Rural
+https://5fa18afd2e74c.streamlock.net/live/smil:canalrural.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Canal do Boi
+http://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Agro Brasil
+http://origin-02.nxplay.com.br/AGROBRASIL_TV/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Gazeta SP
+http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Gazeta SP HD
+http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Gazeta MA
+http://stmv4.srvstm.com:1935/wagner1168/wagner1168/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo SP
+http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo BA
+http://50.7.34.155:2200/BR/TV_Bahia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo MG
+http://50.7.34.155:2200/BR/Globo_HD_Minas-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo PA
+http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo GO
+http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo RS
+http://50.7.34.155:2200/BR/RBS_TV_HD_Porto_Alegre-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo CE
+http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo DF
+http://50.7.34.155:2200/BR/Globo_Brasilia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo AM
+http://50.7.34.155:2200/BR/Globo_Rede_Amazonica_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo SC
+http://50.7.34.155:2200/BR/GLOBO_Nsc_Joinville_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo ES
+http://50.7.34.155:2200/BR/GLOBO_VITORIA_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo RN
+http://50.7.34.155:2200/BR/GLOBO_CABUGI_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo RJ
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_1049/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1,SBT
+http://bitly.com:80/Sbt-hd
+
+
+#EXTINF:-1,SBT SP
+http://50.7.34.155:2200/BR/SBT_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT RJ
+http://50.7.34.155:2200/BR/SBT_RJ_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT DF
+http://50.7.34.155:2200/BR/SBT_Brasilia_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT Nordeste
+http://50.7.34.155:2200/BR/SBT_NORDESTE_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT BA
+http://50.7.34.155:2200/BR/SBT_ARATU_BAHIA_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT PI
+https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT AM
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT GO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT PR
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SBT PE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b176000_sleng.m3u8
+#EXTINF:-1,SBT PE HD
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w416898237_b216000_sleng.m3u8
+#EXTINF:-1,SBT PE Interior
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band SP
+http://50.7.34.155:2200/BR/Band_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band SP Interior
+http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX1_13/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band PA
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band Nordeste
+http://50.7.34.155:2200/BR/BAND_NORDESTE_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,RBTV SP
+http://video01.logicahost.com.br:1935/redebrasil/redebrasil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,RBTV PA
+http://video01.kshost.com.br:1935/tv31966/tv31966/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Brasil
+http://origin-02.nxplay.com.br/TV_BRASIL_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Brasil 2
+http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Cultura SP HD
+http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Cultura GO
+http://wz3.dnip.com.br/tvbrasil/tvbrasil.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Cultura PA
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Cultura RN
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Cultura PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Futura
+http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Futura HD
+http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record SP
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record SP HD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record RJ
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record RJ HD
+http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record BA
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record BA HD
+http://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record DF
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record DF HD
+http://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record MG
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record MG HD
+http://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record PA
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record PA HD
+http://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record GO
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record GO HD
+http://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record RS
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record RS HD
+http://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record RN
+http://origin-02.nxplay.com.br/TV_TROPICAL/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Rede TV SP
+http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v2a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Rede TV SP HD
+http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Rede TV ES
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+#EXTINF:-1,Rede TV RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TVE BA HD
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Agro Mais
+http://evpp.mm.uol.com.br:1935/geob_band/agromais/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere Clubes
+http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere 2
+http://50.7.34.155:2200/BR/Premiere_2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere 3
+http://50.7.34.155:2200/BR/Premiere_3_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere 4
+http://50.7.34.155:2200/BR/Premiere_4_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere 5
+http://50.7.34.155:2200/BR/Premiere_5_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere 6
+http://50.7.34.155:2200/BR/Premiere_6_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere 7
+http://50.7.34.155:2200/BR/Premiere_7_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Premiere 8
+http://50.7.34.155:2200/BR/Premiere_8_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Conmebol TV
+http://50.7.34.155:2200/BR/Conmebol_TV_04_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,DAZN
+http://50.7.34.155:2200/BR/DAZN-HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,DAZN 2
+http://50.7.34.155:2200/BR/DAZN-HD2_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,DAZN 3
+http://50.7.34.155:2200/BR/DAZN-HD3_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TNT Sports
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TNT Sports HD
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Fish TV
+http://50.7.34.155:2200/BR/fishtvhd-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Fish TV HD
+http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,ESPN Brasil
+http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,ESPN
+http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,ESPN 2
+http://50.7.34.155:2200/BR/ESPN2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,ESPN Extra
+http://50.7.34.155:2200/BR/espnextra-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Woohoo
+http://50.7.34.155:2200/BR/Woohoo_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Woohoo HD
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Off
+http://50.7.34.155:2200/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band Sports
+http://50.7.34.155:2200/BR/Band_Sports_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band Sports HD
+http://origin-02.nxplay.com.br/band_spor_9913/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Combate
+http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SporTV
+http://50.7.34.155:2200/BR/Sportv_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SporTV 2
+http://50.7.34.155:2200/BR/Sportv_2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SporTV 3
+http://50.7.34.155:2200/BR/Sportv_3_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Fox Sports
+http://50.7.34.155:2200/BR/Fox_Sports_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Fox Sports 2
+http://50.7.34.155:2200/BR/Fox_Sports_2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Retrô Cartoon
+http://stmv1.srvstm.com:1935/cartoonr2/cartoonr2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Gospel Cartoon
+http://stmv1.srvstm.com:1935/gospelcartoon2/gospelcartoon2/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Play Kids
+http://50.7.34.155:2200/BR/PlayKids_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Zoomoo
+http://50.7.34.155:2200/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Zoomoo HD
+http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Nat Geo Kids
+http://50.7.34.155:2200/BR/NatGeoKidsHD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Baby TV
+http://50.7.34.155:2200/BR/babytv-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Boomerang
+http://50.7.34.155:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Tooncast
+http://50.7.34.155:2200/BR/Tooncast-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Gloobinho
+http://50.7.34.155:2200/BR/GLOOBINHO_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Gloob
+http://50.7.34.155:2200/BR/Gloob_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Nickelodeon
+http://50.7.34.155:2200/BR/Nickelodeon_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Nickelodeon HD
+http://origin-02.nxplay.com.br/NICK_BR_HD_p983941/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Nick Jr.
+http://50.7.34.155:2200/BR/Nick_Jr_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Nick Jr. HD
+http://origin-02.nxplay.com.br/NICK_JR_00999_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Cartoon Network
+http://50.7.34.155:2200/BR/Cartoon_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Discovery Kids
+http://50.7.34.155:2200/BR/Discovery_Ks_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Disney XD
+http://50.7.34.155:2200/BR/disneyxd-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Disney Junior
+http://50.7.34.155:2200/BR/disneyjunior-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Disney Channel
+http://50.7.34.155:2200/BR/Disney_Channel_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO
+http://50.7.34.155:2200/BR/HBO_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO 2
+http://50.7.34.155:2200/BR/HBO_2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO Plus
+http://50.7.34.155:2200/BR/HBO_Plus_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO Signature
+http://50.7.34.155:2200/BR/HBO_Signature_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO Family
+http://50.7.34.155:2200/BR/HBO_Family_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO Mundi
+http://50.7.34.155:2200/BR/HBO_MUNDI_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO Xtreme
+http://50.7.34.155:2200/BR/HBO_Xtreme_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,HBO Pop
+http://50.7.34.155:2200/BR/HBO_POP_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Cinemax
+http://50.7.34.155:2200/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Telecine Action
+http://50.7.34.155:2200/BR/Telecine_Action_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Telecine Premium
+http://50.7.34.155:2200/BR/Telecine_Premium_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Telecine Touch
+http://50.7.34.155:2200/BR/Telecine_Touch_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Telecine Fun
+http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Telecine Pipoca
+http://50.7.34.155:2200/BR/Telecine_Pipoca_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Telecine Cult
+http://50.7.34.155:2200/BR/Telecine_Cult_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,A&E
+http://50.7.34.155:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,A&E HD
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Film&Arts
+http://50.7.34.155:2200/BR/Film_Arts_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Film&Arts HD
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,AXN
+http://50.7.34.155:2200/BR/axnhd-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,AMC HD
+http://origin-02.nxplay.com.br/AMC_BRASIL_15581/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Star Channel
+http://50.7.34.155:2200/BR/Fox_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Star Hits 1
+http://50.7.34.155:2200/BR/Fox_Premium_1_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Star Hits 2
+http://50.7.34.155:2200/BR/Fox_Premium_2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,FX
+http://50.7.34.155:2200/BR/FX_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Megapix
+http://50.7.34.155:2200/BR/Megapix_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Space
+http://50.7.34.155:2200/BR/Space_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TBS
+http://50.7.34.155:2200/BR/TBS_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TBS HD
+http://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Comedy Central
+http://50.7.34.155:2200/BR/Comedy_Central_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Comedy Central HD
+http://origin-02.nxplay.com.br/comed_central-tk/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TCM
+http://50.7.34.155:2200/BR/tcm-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Syfy
+http://50.7.34.155:2200/BR/SyFy_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Studio Universal
+http://50.7.34.155:2200/BR/Studio_Universal_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Sony
+http://50.7.34.155:2200/BR/Canal_Sony_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TNT Séries
+http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TNT
+http://50.7.34.155:2200/BR/TNT_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Universal
+http://50.7.34.155:2200/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Paramount
+http://50.7.34.155:2200/BR/Paramount_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Paramount HD
+http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Warner
+http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Warner HD
+http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record News
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Record News HD
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo News
+http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_655/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Globo News HD
+http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/hls-gnews24ha_2359/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band News
+http://50.7.34.155:2200/BR/Band_News_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Band News HD
+http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNN Brasil
+http://50.7.34.155:2200/BR/CNN_Brasil_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CNN Brasil HD
+http://origin-02.nxplay.com.br/CNN_BR_OK_1/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Boston 25 News
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Al Jazeera English
+http://live-hls-web-aje.getaj.net/AJE/index.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Porto Canal
+http://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,RTP1
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,RTP2
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Sky life TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Arte 1
+http://50.7.34.155:2200/BR/Arte_1_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Arte 1 HD
+http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_3.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Curta!
+http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Lifetime
+http://50.7.34.155:2200/BR/Lifetime_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Star Life
+http://50.7.34.155:2200/BR/Fox_Life_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TLC
+http://50.7.34.155:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,E!
+http://50.7.34.155:2200/BR/E_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Animal Planet
+http://50.7.34.155:2200/BR/Animal_Planet_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,National Geographic
+http://50.7.34.155:2200/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Nat Geo Wild
+http://50.7.34.155:2200/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,History
+http://50.7.34.155:2200/BR/The_History_Channel_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,History 2
+http://50.7.34.155:2200/BR/History_2_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Discovery Channel
+http://50.7.34.155:2200/BR/Discovery_Channel_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Discovery Turbo
+http://50.7.34.155:2200/BR/Discovery_Turbo_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Investigação Discovery
+http://50.7.34.155:2200/BR/ID_-_Investi_Discovery_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Discovery Home & Health
+http://50.7.34.155:2200/BR/Disc-_Home_Health_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Discovery Science
+http://50.7.34.155:2200/BR/Discovery_Science_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Discovery World
+http://50.7.34.155:2200/BR/Discovery_World_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Discovery Theater
+http://50.7.34.155:2200/BR/Discovery_Theater_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Classic Hits
+http://origin-02.nxplay.com.br/classichit/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,SCH
+http://origin-02.nxplay.com.br/SCH/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Cult
+http://origin-02.nxplay.com.br/Cult/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Mega
+http://origin-02.nxplay.com.br/MEGA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,BRA
+http://origin-02.nxplay.com.br/BRAmusic/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Hitts
+http://origin-02.nxplay.com.br/HITTS/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,América Latino
+http://origin-02.nxplay.com.br/AMERICOLATINO/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Smithsonian
+http://origin-02.nxplay.com.br/SMITHSONIAN_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Yeeah!
+http://srv3.zcast.com.br:1935/yeeaah/yeeaah/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,TV União
+http://stmv1.srvif.com:1935/admin/admin/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Top TV BA
+https://cdn.jmvstream.com/w/AVJ-9094/playlist/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Top TV PA
+http://serv2.videovox.pw:1935/joaorodrigo7309/joaorodrigo7309/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Food Network
+http://50.7.34.155:2200/BR/Food_Network_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Canal Brasil
+http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Viva
+http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,GNT
+http://50.7.34.155:2200/BR/GNT_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Bis
+http://50.7.34.155:2200/BR/BIS_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Mais Globosat
+http://50.7.34.155:2200/BR/Mais_Globosat_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Multishow
+http://50.7.34.155:2200/BR/Multishow_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,MTV
+http://50.7.34.155:2200/BR/MTV_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,MTV HD
+http://origin-02.nxplay.com.br/MTV_BR_98588_97731/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,MTV Live
+http://50.7.34.155:2200/BR/MTV_LIVE_HD_-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,MTV Live HD
+http://origin-02.nxplay.com.br/MTVLIVE/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,VH1
+http://50.7.34.155:2200/BR/VH1_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Music Box Brazil
+http://50.7.34.155:2200/BR/Music_Box_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Music Box Brazil HD
+http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Prime Box Brazil
+http://50.7.34.155:2200/BR/Prime_Box_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Prime Box Brazil HD
+http://origin-02.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,E001
+https://www.animeson.club/os-simpsons/2358.mp4
+#EXTINF:-1,E002
+https://www.animeson.club/os-simpsons/2360.mp4
+#EXTINF:-1,E003
+https://www.animeson.club/os-simpsons/2362.mp4
+#EXTINF:-1,E004
+https://www.animeson.club/os-simpsons/2364.mp4
+#EXTINF:-1,E005
+https://www.animeson.club/os-simpsons/2366.mp4
+#EXTINF:-1,E006
+https://www.animeson.club/os-simpsons/2368.mp4
+#EXTINF:-1,E007
+https://www.animeson.club/os-simpsons/2370.mp4
+#EXTINF:-1,E008
+https://www.animeson.club/os-simpsons/2372.mp4
+#EXTINF:-1,E009
+https://www.animeson.club/os-simpsons/2374.mp4
+#EXTINF:-1,E010
+https://www.animeson.club/os-simpsons/2376.mp4
+#EXTINF:-1,E011
+https://www.animeson.club/os-simpsons/2378.mp4
+#EXTINF:-1,E012
+https://www.animeson.club/os-simpsons/2380.mp4
+#EXTINF:-1,E013
+https://www.animeson.club/os-simpsons/2382.mp4
+#EXTINF:-1,E014
+https://www.animeson.club/os-simpsons/2384.mp4
+#EXTINF:-1,E015
+https://www.animeson.club/os-simpsons/2386.mp4
+#EXTINF:-1,E016
+https://www.animeson.club/os-simpsons/2388.mp4
+#EXTINF:-1,E017
+https://www.animeson.club/os-simpsons/2390.mp4
+#EXTINF:-1,E018
+https://www.animeson.club/os-simpsons/2392.mp4
+#EXTINF:-1,E019
+https://www.animeson.club/os-simpsons/2394.mp4
+#EXTINF:-1,E020
+https://www.animeson.club/os-simpsons/2396.mp4
+#EXTINF:-1,E021
+https://www.animeson.club/os-simpsons/2398.mp4
+#EXTINF:-1,E022
+https://www.animeson.club/os-simpsons/2400.mp4
+#EXTINF:-1,E023
+https://www.animeson.club/os-simpsons/2402.mp4
+#EXTINF:-1,E024
+https://www.animeson.club/os-simpsons/2404.mp4
+#EXTINF:-1,E025
+https://www.animeson.club/os-simpsons/2406.mp4
+#EXTINF:-1,E026
+https://www.animeson.club/os-simpsons/2408.mp4
+#EXTINF:-1,E027
+https://www.animeson.club/os-simpsons/2410.mp4
+#EXTINF:-1,E028
+https://www.animeson.club/os-simpsons/2412.mp4
+#EXTINF:-1,E029
+https://www.animeson.club/os-simpsons/2414.mp4
+#EXTINF:-1,E030
+https://www.animeson.club/os-simpsons/2416.mp4
+#EXTINF:-1,E031
+https://www.animeson.club/os-simpsons/2418.mp4
+#EXTINF:-1,E032
+https://www.animeson.club/os-simpsons/2420.mp4
+#EXTINF:-1,E033
+https://www.animeson.club/os-simpsons/2422.mp4
+#EXTINF:-1,E034
+https://www.animeson.club/os-simpsons/2424.mp4
+#EXTINF:-1,E035
+https://www.animeson.club/os-simpsons/2426.mp4
+#EXTINF:-1,E036
+https://www.animeson.club/os-simpsons/2428.mp4
+#EXTINF:-1,E037
+https://www.animeson.club/os-simpsons/2430.mp4
+#EXTINF:-1,E038
+https://www.animeson.club/os-simpsons/2432.mp4
+#EXTINF:-1,E039
+https://www.animeson.club/os-simpsons/2434.mp4
+#EXTINF:-1,E040
+https://www.animeson.club/os-simpsons/2436.mp4
+#EXTINF:-1,E041
+https://www.animeson.club/os-simpsons/2438.mp4
+#EXTINF:-1,E042
+https://www.animeson.club/os-simpsons/2440.mp4
+#EXTINF:-1,E043
+https://www.animeson.club/os-simpsons/2442.mp4
+#EXTINF:-1,E044
+https://www.animeson.club/os-simpsons/2444.mp4
+#EXTINF:-1,E045
+https://www.animeson.club/os-simpsons/2446.mp4
+#EXTINF:-1,E046
+https://www.animeson.club/os-simpsons/2448.mp4
+#EXTINF:-1,E047
+https://www.animeson.club/os-simpsons/2450.mp4
+#EXTINF:-1,E048
+https://www.animeson.club/os-simpsons/2452.mp4
+#EXTINF:-1,E049
+https://www.animeson.club/os-simpsons/2454.mp4
+#EXTINF:-1,E050
+https://www.animeson.club/os-simpsons/2456.mp4
+#EXTINF:-1,E051
+https://www.animeson.club/os-simpsons/2458.mp4
+#EXTINF:-1,E052
+https://www.animeson.club/os-simpsons/2460.mp4
+#EXTINF:-1,E053
+https://www.animeson.club/os-simpsons/2462.mp4
+#EXTINF:-1,E054
+https://www.animeson.club/os-simpsons/2464.mp4
+#EXTINF:-1,E055
+https://www.animeson.club/os-simpsons/2466.mp4
+#EXTINF:-1,E056
+https://www.animeson.club/os-simpsons/2468.mp4
+#EXTINF:-1,E057
+https://www.animeson.club/os-simpsons/2470.mp4
+#EXTINF:-1,E058
+https://www.animeson.club/os-simpsons/2472.mp4
+#EXTINF:-1,E059
+https://www.animeson.club/os-simpsons/2474.mp4
+#EXTINF:-1,E060
+https://www.animeson.club/os-simpsons/2476.mp4
+#EXTINF:-1,E061
+https://www.animeson.club/os-simpsons/2478.mp4
+#EXTINF:-1,E062
+https://www.animeson.club/os-simpsons/2480.mp4
+#EXTINF:-1,E063
+https://www.animeson.club/os-simpsons/2482.mp4
+#EXTINF:-1,E064
+https://www.animeson.club/os-simpsons/2484.mp4
+#EXTINF:-1,E065
+https://www.animeson.club/os-simpsons/2486.mp4
+#EXTINF:-1,E066
+https://www.animeson.club/os-simpsons/2488.mp4
+#EXTINF:-1,E067
+https://www.animeson.club/os-simpsons/2490.mp4
+#EXTINF:-1,E068
+https://www.animeson.club/os-simpsons/2492.mp4
+#EXTINF:-1,E069
+https://www.animeson.club/os-simpsons/2494.mp4
+#EXTINF:-1,E070
+https://www.animeson.club/os-simpsons/2496.mp4
+#EXTINF:-1,E071
+https://www.animeson.club/os-simpsons/2498.mp4
+#EXTINF:-1,E072
+https://www.animeson.club/os-simpsons/2500.mp4
+#EXTINF:-1,E073
+https://www.animeson.club/os-simpsons/2502.mp4
+#EXTINF:-1,E074
+https://www.animeson.club/os-simpsons/2504.mp4
+#EXTINF:-1,E075
+https://www.animeson.club/os-simpsons/2506.mp4
+#EXTINF:-1,E076
+https://www.animeson.club/os-simpsons/2508.mp4
+#EXTINF:-1,E077
+https://www.animeson.club/os-simpsons/2510.mp4
+#EXTINF:-1,E078
+https://www.animeson.club/os-simpsons/2512.mp4
+#EXTINF:-1,E079
+https://www.animeson.club/os-simpsons/2514.mp4
+#EXTINF:-1,E080
+https://www.animeson.club/os-simpsons/2516.mp4
+#EXTINF:-1,E081
+https://www.animeson.club/os-simpsons/2518.mp4
+#EXTINF:-1,E082
+https://www.animeson.club/os-simpsons/2520.mp4
+#EXTINF:-1,E083
+https://www.animeson.club/os-simpsons/2522.mp4
+#EXTINF:-1,E084
+https://www.animeson.club/os-simpsons/2524.mp4
+#EXTINF:-1,E085
+https://www.animeson.club/os-simpsons/2526.mp4
+#EXTINF:-1,E086
+https://www.animeson.club/os-simpsons/2528.mp4
+#EXTINF:-1,E087
+https://www.animeson.club/os-simpsons/2530.mp4
+#EXTINF:-1,E088
+https://www.animeson.club/os-simpsons/2532.mp4
+#EXTINF:-1,E089
+https://www.animeson.club/os-simpsons/2534.mp4
+#EXTINF:-1,E090
+https://www.animeson.club/os-simpsons/2536.mp4
+#EXTINF:-1,E091
+https://www.animeson.club/os-simpsons/2538.mp4
+#EXTINF:-1,E092
+https://www.animeson.club/os-simpsons/2540.mp4
+#EXTINF:-1,E093
+https://www.animeson.club/os-simpsons/2542.mp4
+#EXTINF:-1,E094
+https://www.animeson.club/os-simpsons/2544.mp4
+#EXTINF:-1,E095
+https://www.animeson.club/os-simpsons/2546.mp4
+#EXTINF:-1,E096
+https://www.animeson.club/os-simpsons/2548.mp4
+#EXTINF:-1,E097
+https://www.animeson.club/os-simpsons/2550.mp4
+#EXTINF:-1,E098
+https://www.animeson.club/os-simpsons/2552.mp4
+#EXTINF:-1,E099
+https://www.animeson.club/os-simpsons/2554.mp4
+#EXTINF:-1,E100
+https://www.animeson.club/os-simpsons/2556.mp4
+#EXTINF:-1,E101
+https://www.animeson.club/os-simpsons/2558.mp4
+#EXTINF:-1,E102
+https://www.animeson.club/os-simpsons/2560.mp4
+#EXTINF:-1,E103
+https://www.animeson.club/os-simpsons/2562.mp4
+#EXTINF:-1,E104
+https://www.animeson.club/os-simpsons/2564.mp4
+#EXTINF:-1,E105
+https://www.animeson.club/os-simpsons/2566.mp4
+#EXTINF:-1,E106
+https://www.animeson.club/os-simpsons/2568.mp4
+#EXTINF:-1,E107
+https://www.animeson.club/os-simpsons/2570.mp4
+#EXTINF:-1,E108
+https://www.animeson.club/os-simpsons/2572.mp4
+#EXTINF:-1,E109
+https://www.animeson.club/os-simpsons/2574.mp4
+#EXTINF:-1,E110
+https://www.animeson.club/os-simpsons/2576.mp4
+#EXTINF:-1,E111
+https://www.animeson.club/os-simpsons/2578.mp4
+#EXTINF:-1,E112
+https://www.animeson.club/os-simpsons/2580.mp4
+#EXTINF:-1,E113
+https://www.animeson.club/os-simpsons/2582.mp4
+#EXTINF:-1,E114
+https://www.animeson.club/os-simpsons/2584.mp4
+#EXTINF:-1,E115
+https://www.animeson.club/os-simpsons/2586.mp4
+#EXTINF:-1,E116
+https://www.animeson.club/os-simpsons/2588.mp4
+#EXTINF:-1,E117
+https://www.animeson.club/os-simpsons/2590.mp4
+#EXTINF:-1,E118
+https://www.animeson.club/os-simpsons/2592.mp4
+#EXTINF:-1,E119
+https://www.animeson.club/os-simpsons/2594.mp4
+#EXTINF:-1,E120
+https://www.animeson.club/os-simpsons/2595.mp4
+#EXTINF:-1,E121
+https://www.animeson.club/os-simpsons/2597.mp4
+#EXTINF:-1,E122
+https://www.animeson.club/os-simpsons/2599.mp4
+#EXTINF:-1,E123
+https://www.animeson.club/os-simpsons/2601.mp4
+#EXTINF:-1,E124
+https://www.animeson.club/os-simpsons/2603.mp4
+#EXTINF:-1,E125
+https://www.animeson.club/os-simpsons/2605.mp4
+#EXTINF:-1,E126
+https://www.animeson.club/os-simpsons/2607.mp4
+#EXTINF:-1,E127
+https://www.animeson.club/os-simpsons/2609.mp4
+#EXTINF:-1,E128
+https://www.animeson.club/os-simpsons/2611.mp4
+#EXTINF:-1,E129
+https://www.animeson.club/os-simpsons/2613.mp4
+#EXTINF:-1,E130
+https://www.animeson.club/os-simpsons/2615.mp4
+#EXTINF:-1,E131
+https://www.animeson.club/os-simpsons/2617.mp4
+#EXTINF:-1,E132
+https://www.animeson.club/os-simpsons/2619.mp4
+#EXTINF:-1,E133
+https://www.animeson.club/os-simpsons/2621.mp4
+#EXTINF:-1,E134
+https://www.animeson.club/os-simpsons/2623.mp4
+#EXTINF:-1,E135
+https://www.animeson.club/os-simpsons/2625.mp4
+#EXTINF:-1,E136
+https://www.animeson.club/os-simpsons/2627.mp4
+#EXTINF:-1,E137
+https://www.animeson.club/os-simpsons/2629.mp4
+#EXTINF:-1,E138
+https://www.animeson.club/os-simpsons/2631.mp4
+#EXTINF:-1,E139
+https://www.animeson.club/os-simpsons/2633.mp4
+#EXTINF:-1,E140
+https://www.animeson.club/os-simpsons/2635.mp4
+#EXTINF:-1,E141
+https://www.animeson.club/os-simpsons/2637.mp4
+#EXTINF:-1,E142
+https://www.animeson.club/os-simpsons/2639.mp4
+#EXTINF:-1,E143
+https://www.animeson.club/os-simpsons/2641.mp4
+#EXTINF:-1,E144
+https://www.animeson.club/os-simpsons/2643.mp4
+#EXTINF:-1,E145
+https://www.animeson.club/os-simpsons/2645.mp4
+#EXTINF:-1,E146
+https://www.animeson.club/os-simpsons/2647.mp4
+#EXTINF:-1,E147
+https://www.animeson.club/os-simpsons/2649.mp4
+#EXTINF:-1,E148
+https://www.animeson.club/os-simpsons/2651.mp4
+#EXTINF:-1,E149
+https://www.animeson.club/os-simpsons/2653.mp4
+#EXTINF:-1,E150
+https://www.animeson.club/os-simpsons/2655.mp4
+#EXTINF:-1,E151
+https://www.animeson.club/os-simpsons/2657.mp4
+#EXTINF:-1,E152
+https://www.animeson.club/os-simpsons/2659.mp4
+#EXTINF:-1,E153
+https://www.animeson.club/os-simpsons/2661.mp4
+#EXTINF:-1,E154
+https://www.animeson.club/os-simpsons/2663.mp4
+#EXTINF:-1,E155
+https://www.animeson.club/os-simpsons/2665.mp4
+#EXTINF:-1,E156
+https://www.animeson.club/os-simpsons/2667.mp4
+#EXTINF:-1,E157
+https://www.animeson.club/os-simpsons/2669.mp4
+#EXTINF:-1,E158
+https://www.animeson.club/os-simpsons/2671.mp4
+#EXTINF:-1,E159
+https://www.animeson.club/os-simpsons/2673.mp4
+#EXTINF:-1,E160
+https://www.animeson.club/os-simpsons/2675.mp4
+#EXTINF:-1,E161
+https://www.animeson.club/os-simpsons/2677.mp4
+#EXTINF:-1,E162
+https://www.animeson.club/os-simpsons/2679.mp4
+#EXTINF:-1,E163
+https://www.animeson.club/os-simpsons/2681.mp4
+#EXTINF:-1,E164
+https://www.animeson.club/os-simpsons/2683.mp4
+#EXTINF:-1,E165
+https://www.animeson.club/os-simpsons/2685.mp4
+#EXTINF:-1,E166
+https://www.animeson.club/os-simpsons/2687.mp4
+#EXTINF:-1,E167
+https://www.animeson.club/os-simpsons/2689.mp4
+#EXTINF:-1,E168
+https://www.animeson.club/os-simpsons/2691.mp4
+#EXTINF:-1,E169
+https://www.animeson.club/os-simpsons/2693.mp4
+#EXTINF:-1,E170
+https://www.animeson.club/os-simpsons/2695.mp4
+#EXTINF:-1,E171
+https://www.animeson.club/os-simpsons/2697.mp4
+#EXTINF:-1,E172
+https://www.animeson.club/os-simpsons/2699.mp4
+#EXTINF:-1,E173
+https://www.animeson.club/os-simpsons/2701.mp4
+#EXTINF:-1,E174
+https://www.animeson.club/os-simpsons/2703.mp4
+#EXTINF:-1,E175
+https://www.animeson.club/os-simpsons/2705.mp4
+#EXTINF:-1,E176
+https://www.animeson.club/os-simpsons/2707.mp4
+#EXTINF:-1,E177
+https://www.animeson.club/os-simpsons/2709.mp4
+#EXTINF:-1,E178
+https://www.animeson.club/os-simpsons/2711.mp4
+#EXTINF:-1,E179
+https://www.animeson.club/os-simpsons/2713.mp4
+#EXTINF:-1,E180
+https://www.animeson.club/os-simpsons/2715.mp4
+#EXTINF:-1,E181
+https://www.animeson.club/os-simpsons/2717.mp4
+#EXTINF:-1,E181
+https://www.animeson.club/os-simpsons/2719.mp4
+#EXTINF:-1,E182
+https://www.animeson.club/os-simpsons/2721.mp4
+#EXTINF:-1,E183
+https://www.animeson.club/os-simpsons/2723.mp4
+#EXTINF:-1,E184
+https://www.animeson.club/os-simpsons/2725.mp4
+#EXTINF:-1,E185
+https://www.animeson.club/os-simpsons/2727.mp4
+#EXTINF:-1,E186
+https://www.animeson.club/os-simpsons/2729.mp4
+#EXTINF:-1,E187
+https://www.animeson.club/os-simpsons/2731.mp4
+#EXTINF:-1,E188
+https://www.animeson.club/os-simpsons/2733.mp4
+#EXTINF:-1,E190
+https://www.animeson.club/os-simpsons/2735.mp4
+#EXTINF:-1,E191
+https://www.animeson.club/os-simpsons/2737.mp4
+#EXTINF:-1,E192
+https://www.animeson.club/os-simpsons/2739.mp4
+#EXTINF:-1,E193
+https://www.animeson.club/os-simpsons/2741.mp4
+#EXTINF:-1,E194
+https://www.animeson.club/os-simpsons/2743.mp4
+#EXTINF:-1,E195
+https://www.animeson.club/os-simpsons/2745.mp4
+#EXTINF:-1,E196
+https://www.animeson.club/os-simpsons/2747.mp4
+#EXTINF:-1,E197
+https://www.animeson.club/os-simpsons/2749.mp4
+#EXTINF:-1,E198
+https://www.animeson.club/os-simpsons/2751.mp4
+#EXTINF:-1,E199
+https://www.animeson.club/os-simpsons/2753.mp4
+#EXTINF:-1,E200
+https://www.animeson.club/os-simpsons/2755.mp4
+#EXTINF:-1,E201
+https://www.animeson.club/os-simpsons/2757.mp4
+#EXTINF:-1,E202
+https://www.animeson.club/os-simpsons/2759.mp4
+#EXTINF:-1,E203
+https://www.animeson.club/os-simpsons/2761.mp4
+#EXTINF:-1,E204
+https://www.animeson.club/os-simpsons/2763.mp4
+#EXTINF:-1,E205
+https://www.animeson.club/os-simpsons/2765.mp4
+#EXTINF:-1,E206
+https://www.animeson.club/os-simpsons/2767.mp4
+#EXTINF:-1,E208
+https://www.animeson.club/os-simpsons/2771.mp4
+#EXTINF:-1,E209
+https://www.animeson.club/os-simpsons/2773.mp4
+#EXTINF:-1,E210
+https://www.animeson.club/os-simpsons/2775.mp4
+#EXTINF:-1,E211
+https://www.animeson.club/os-simpsons/2777.mp4
+#EXTINF:-1,E213
+https://www.animeson.club/os-simpsons/2781.mp4
+#EXTINF:-1,E214
+https://www.animeson.club/os-simpsons/2783.mp4
+#EXTINF:-1,E215
+https://www.animeson.club/os-simpsons/2785.mp4
+#EXTINF:-1,E216
+https://www.animeson.club/os-simpsons/2787.mp4
+#EXTINF:-1,E217
+https://www.animeson.club/os-simpsons/2789.mp4
+#EXTINF:-1,E218
+https://www.animeson.club/os-simpsons/2791.mp4
+#EXTINF:-1,E219
+https://www.animeson.club/os-simpsons/2793.mp4
+#EXTINF:-1,E220
+https://www.animeson.club/os-simpsons/2795.mp4
+#EXTINF:-1,E221
+https://www.animeson.club/os-simpsons/2797.mp4
+#EXTINF:-1,E222
+https://www.animeson.club/os-simpsons/2799.mp4
+#EXTINF:-1,E223
+https://www.animeson.club/os-simpsons/2801.mp4
+#EXTINF:-1,E224
+https://www.animeson.club/os-simpsons/2803.mp4
+#EXTINF:-1,E225
+https://www.animeson.club/os-simpsons/2805.mp4
+#EXTINF:-1,E226
+https://www.animeson.club/os-simpsons/2807.mp4
+#EXTINF:-1,E227
+https://www.animeson.club/os-simpsons/2809.mp4
+#EXTINF:-1,E228
+https://www.animeson.club/os-simpsons/2811.mp4
+#EXTINF:-1,E229
+https://www.animeson.club/os-simpsons/2813.mp4
+#EXTINF:-1,E230
+https://www.animeson.club/os-simpsons/2815.mp4
+#EXTINF:-1,E231
+https://www.animeson.club/os-simpsons/2817.mp4
+#EXTINF:-1,E232
+https://www.animeson.club/os-simpsons/2819.mp4
+#EXTINF:-1,E233
+https://www.animeson.club/os-simpsons/2821.mp4
+#EXTINF:-1,E234
+https://www.animeson.club/os-simpsons/2823.mp4
+#EXTINF:-1,E235
+https://www.animeson.club/os-simpsons/2825.mp4
+#EXTINF:-1,E236
+https://www.animeson.club/os-simpsons/2827.mp4
+#EXTINF:-1,E237
+https://www.animeson.club/os-simpsons/2829.mp4
+#EXTINF:-1,E238
+https://www.animeson.club/os-simpsons/2831.mp4
+#EXTINF:-1,E239
+https://www.animeson.club/os-simpsons/2833.mp4
+#EXTINF:-1,E240
+https://www.animeson.club/os-simpsons/2835.mp4
+#EXTINF:-1,E241
+https://www.animeson.club/os-simpsons/2837.mp4
+#EXTINF:-1,E242
+https://www.animeson.club/os-simpsons/2839.mp4
+#EXTINF:-1,E243
+https://www.animeson.club/os-simpsons/2841.mp4
+#EXTINF:-1,E244
+https://www.animeson.club/os-simpsons/2843.mp4
+#EXTINF:-1,E245
+https://www.animeson.club/os-simpsons/2845.mp4
+#EXTINF:-1,E246
+https://www.animeson.club/os-simpsons/2847.mp4
+#EXTINF:-1,E247
+https://www.animeson.club/os-simpsons/2849.mp4
+#EXTINF:-1,E248
+https://www.animeson.club/os-simpsons/2851.mp4
+#EXTINF:-1,E249
+https://www.animeson.club/os-simpsons/2853.mp4
+#EXTINF:-1,E250
+https://www.animeson.club/os-simpsons/2855.mp4
+#EXTINF:-1,E251
+https://www.animeson.club/os-simpsons/2857.mp4
+#EXTINF:-1,E252
+https://www.animeson.club/os-simpsons/2859.mp4
+#EXTINF:-1,E253
+https://www.animeson.club/os-simpsons/2861.mp4
+#EXTINF:-1,E254
+https://www.animeson.club/os-simpsons/2863.mp4
+#EXTINF:-1,E255
+https://www.animeson.club/os-simpsons/2865.mp4
+#EXTINF:-1,E256
+https://www.animeson.club/os-simpsons/2867.mp4
+#EXTINF:-1,E258
+https://www.animeson.club/os-simpsons/2871.mp4
+#EXTINF:-1,E259
+https://www.animeson.club/os-simpsons/2873.mp4
+#EXTINF:-1,E260
+https://www.animeson.club/os-simpsons/2875.mp4
+#EXTINF:-1,E261
+https://www.animeson.club/os-simpsons/2877.mp4
+#EXTINF:-1,E263
+https://www.animeson.club/os-simpsons/2881.mp4
+#EXTINF:-1,E264
+https://www.animeson.club/os-simpsons/2883.mp4
+#EXTINF:-1,E265
+https://www.animeson.club/os-simpsons/2885.mp4
+#EXTINF:-1,E266
+https://www.animeson.club/os-simpsons/2887.mp4
+#EXTINF:-1,E267
+https://www.animeson.club/os-simpsons/2889.mp4
+#EXTINF:-1,E268
+https://www.animeson.club/os-simpsons/2891.mp4
+#EXTINF:-1,E269
+https://www.animeson.club/os-simpsons/2893.mp4
+#EXTINF:-1,E270
+https://www.animeson.club/os-simpsons/2895.mp4
+#EXTINF:-1,E271
+https://www.animeson.club/os-simpsons/2897.mp4
+#EXTINF:-1,E272
+https://www.animeson.club/os-simpsons/2899.mp4
+#EXTINF:-1,E273
+https://www.animeson.club/os-simpsons/2901.mp4
+#EXTINF:-1,E274
+https://www.animeson.club/os-simpsons/2903.mp4
+#EXTINF:-1,E275
+https://www.animeson.club/os-simpsons/2905.mp4
+#EXTINF:-1,E276
+https://www.animeson.club/os-simpsons/2907.mp4
+#EXTINF:-1,E277
+https://www.animeson.club/os-simpsons/2909.mp4
+#EXTINF:-1,E278
+https://www.animeson.club/os-simpsons/2911.mp4
+#EXTINF:-1,E279
+https://www.animeson.club/os-simpsons/2913.mp4
+#EXTINF:-1,E280
+https://www.animeson.club/os-simpsons/2915.mp4
+#EXTINF:-1, E01 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82559.mp4
+#EXTINF:-1, E02 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82561.mp4
+#EXTINF:-1, E03 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82563.mp4
+#EXTINF:-1, E04 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82565.mp4
+#EXTINF:-1, E05 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82567.mp4
+#EXTINF:-1, E06 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82569.mp4
+#EXTINF:-1, E07 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82571.mp4
+#EXTINF:-1, E08 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82573.mp4
+#EXTINF:-1, E09 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82575.mp4
+#EXTINF:-1, E10 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82577.mp4
+#EXTINF:-1, E11 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82579.mp4
+#EXTINF:-1, E12 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82581.mp4
+#EXTINF:-1, E13 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82583.mp4
+#EXTINF:-1, E14 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82585.mp4
+#EXTINF:-1, E15 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82587.mp4
+#EXTINF:-1, E16 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82589.mp4
+#EXTINF:-1, E17 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82591.mp4
+#EXTINF:-1, E18 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82593.mp4
+#EXTINF:-1, E19 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82595.mp4
+#EXTINF:-1, E20 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82597.mp4
+#EXTINF:-1, E21 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82599.mp4
+#EXTINF:-1, E22 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82601.mp4
+#EXTINF:-1, E23 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82603.mp4
+#EXTINF:-1, E24 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82605.mp4
+#EXTINF:-1, E25 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82607.mp4
+#EXTINF:-1, E26 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82609.mp4
+#EXTINF:-1, E27 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82611.mp4
+#EXTINF:-1, E28 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82613.mp4
+#EXTINF:-1, E29 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82615.mp4
+#EXTINF:-1, E30 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82617.mp4
+#EXTINF:-1, E31 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82619.mp4
+#EXTINF:-1, E32 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82621.mp4
+#EXTINF:-1, E33 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82623.mp4
+#EXTINF:-1, E34 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82625.mp4
+#EXTINF:-1, E35 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82627.mp4
+#EXTINF:-1, E36 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82629.mp4
+#EXTINF:-1, E37 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82631.mp4
+#EXTINF:-1, E38 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82633.mp4
+#EXTINF:-1, E39 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82635.mp4
+#EXTINF:-1, E40 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82637.mp4
+#EXTINF:-1, E41 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82639.mp4
+#EXTINF:-1, E42 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82641.mp4
+#EXTINF:-1, E45 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82643.mp4
+#EXTINF:-1, E47 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82645.mp4
+#EXTINF:-1, E48 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82647.mp4
+#EXTINF:-1, E49 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82649.mp4
+#EXTINF:-1, E50 The Loud House
+https://www.animeson.club/the-loud-house-dublado/82651.mp4
+#EXTINF:-1,Os Últimos Dias de Billy the Kid
+http://videos.nxplay.com.br/hls/e325134cbce311ebad891615f31c5c36/video_1.m3u8
+#EXTINF:-1,Assassinos Anônimos
+http://videos.nxplay.com.br/hls/587b7b9eb9b611eb964baabe0d1b0434/video_1.m3u8
+#EXTINF:-1,Um Punhado de Chumbo
+http://videos.nxplay.com.br/hls/3f58c688b68e11ebb4e432029e11c61a/video_1.m3u8
+#EXTINF:-1,Crônicas da Tribo Fantasma
+http://videos.nxplay.com.br/hls/6f23beb2b66711eb922e3e8ac65d5c39/video_1.m3u8
+#EXTINF:-1,Um Agente Fora de Série
+http://videos.nxplay.com.br/hls/389adc62b5eb11eb9402a6455efdff01/video_1.m3u8
+#EXTINF:-1,Call To Duty: Fora de Alcance
+http://videos.nxplay.com.br/hls/f489f0e4b5ea11ebb7b12e5a88a0c34a/video_1.m3u8
+#EXTINF:-1,Flashes
+http://videos.nxplay.com.br/hls/d8ba472e94d411eb99476a09d579caf3/video_1.m3u8
+#EXTINF:-1,A Última Resistência
+http://videos.nxplay.com.br/hls/50499942972911ebb61cfa0aad643132/video_1.m3u8
+#EXTINF:-1,Caminho da Morte
+http://videos.nxplay.com.br/hls/9a7401f2971911ebb9049e0de523564a/video_1.m3u8
+#EXTINF:-1,Santos ou Soldados: A Ultima Missão
+http://videos.nxplay.com.br/hls/e67f41dab00d11eba734a6d2195708a6/video_1.m3u8
+#EXTINF:-1,Caçador de Demônios
+http://videos.nxplay.com.br/hls/f658558e94be11ebbf144ad26fcc6a00/video_1.m3u8
+#EXTINF:-1,Assassinos de Guerra
+http://videos.nxplay.com.br/hls/29e4931094c211eb825d1ae7d6fae385/video_1.m3u8
+#EXTINF:-1,Davi vs Golias: A Batalha da Fé
+http://videos.nxplay.com.br/hls/645957b0972911ebaa7c2e6309427d4e/video_1.m3u8
+#EXTINF:-1,Mortos Vivos
+http://videos.nxplay.com.br/hls/810f3dda971911ebb4a6360d164a7ec0/video_1.m3u8
+#EXTINF:-1,O Garoto Formiga 3
+http://videos.nxplay.com.br/hls/01c89d58966711eb93abda543062cc9f/video_1.m3u8
+#EXTINF:-1,Força de Elite
+http://videos.nxplay.com.br/hls/50c649da9d8a11eb8d0eca346366538e/video_1.m3u8
+#EXTINF:-1,Viking: Os Pergaminhos Sagrados
+http://videos.nxplay.com.br/hls/cb2e4a3c7e9b11ebaf1b8a46d49a028c/video_1.m3u8
+#EXTINF:-1,Operação Kickbox 3: Sem Retorno
+http://videos.nxplay.com.br/hls/d0a38146726e11eb8da81ef2ce598815/video_1.m3u8
+#EXTINF:-1,Operação Kickbox 2: Vencer ou Vencer
+http://videos.nxplay.com.br/hls/8680bbe2727311eb8aaf1ed6221cc2a1/video_1.m3u8
+#EXTINF:-1,Três Reis
+http://videos.nxplay.com.br/hls/e26648ee71ad11eb91692af159ca3888/video_1.m3u8
+#EXTINF:-1,Quebrando Regras
+http://videos.nxplay.com.br/hls/a52d835271ad11ebaae25a33bbd44232/video_1.m3u8
+#EXTINF:-1,O Senhor das Armas
+http://videos.nxplay.com.br/hls/492e896271a211eb83675eaa762f7c65/video_1.m3u8
+#EXTINF:-1,A Força de um Campeão
+http://videos.nxplay.com.br/hls/95ed67aa746811eb912a3669bdd32c26/video_1.m3u8
+#EXTINF:-1,O Atirador
+http://videos.nxplay.com.br/hls/553a9228604511eba783f64eb82ebb6d/video_1.m3u8
+#EXTINF:-1,Caçadores de Emoção
+http://videos.nxplay.com.br/hls/cf5172ca5f0f11eb825282762afc380b/video_1.m3u8
+#EXTINF:-1,Vencer ou Morrer
+http://videos.nxplay.com.br/hls/3a540eb25ed811eb8559a29e33f7739f/video_1.m3u8
+#EXTINF:-1,Fúria sobre Rodas
+http://videos.nxplay.com.br/hls/9d8ba3de5c3d11eb8a4dc6b362fdcffb/video_1.m3u8
+#EXTINF:-1,Jogo Perverso
+http://videos.nxplay.com.br/hls/ad5bed9a5bdf11eb837c0edac258a9a1/video_1.m3u8
+#EXTINF:-1,Incontrolável
+http://videos.nxplay.com.br/hls/7ecd94ae548911eba6eee643dac023f3/video_1.m3u8
+#EXTINF:-1,A Fúria do Dragão
+http://videos.nxplay.com.br/hls/928faab82a8111ebb5703ef0b7ac8211/video_1.m3u8
+#EXTINF:-1,Operação Dragão
+http://videos.nxplay.com.br/hls/2c2599b22a7d11ebbad0c2143793d6ba/video_1.m3u8
+#EXTINF:-1,O Dragão Chinês
+http://videos.nxplay.com.br/hls/8f84339c2a7d11eb8f40a22d9be76c4c/video_1.m3u8
+#EXTINF:-1,Jogo da Morte 2
+http://videos.nxplay.com.br/hls/ceb0d2462a7d11eb9ca3729d567205ff/video_1.m3u8
+#EXTINF:-1,O Vôo do Dragão
+http://videos.nxplay.com.br/hls/276a8c9829f111eba0e77a1a99da34f5/video_1.m3u8
+#EXTINF:-1,Jogo da Morte
+http://videos.nxplay.com.br/hls/cd09171c283111eb8c72ee71b597166f/video_1.m3u8
+#EXTINF:-1,Homem-Aranha 2
+http://videos.nxplay.com.br/hls/623f32200a7411ebae4bfa8d58eb2f0a/video_1.m3u8
+#EXTINF:-1,Homem-Aranha 3
+http://videos.nxplay.com.br/hls/c41bf258076311eb8e1ecad7bf5d214a/video_1.m3u8
+#EXTINF:-1,Juízo Final
+http://videos.nxplay.com.br/hls/68b01336f9d011ea87dedeedee756b65/video_1.m3u8
+#EXTINF:-1,Entrando Numa Roubada
+http://videos.nxplay.com.br/hls/1f11ee38f90e11ea9fc78a7b5ee1a780/video_1.m3u8
+#EXTINF:-1,Passageiro 57
+http://videos.nxplay.com.br/hls/e6b02918f8fb11eab710c2259f23e6a7/video_1.m3u8
+#EXTINF:-1,Contra o Tempo
+http://videos.nxplay.com.br/hls/9e1b1694f8fc11eaabae6e6020ee0654/video_1.m3u8
+#EXTINF:-1,Highlander II: A Ressurreição
+http://videos.nxplay.com.br/hls/755535e8f8fa11ea99c68eb09906c3ae/video_1.m3u8
+#EXTINF:-1,Resposta Armada
+http://videos.nxplay.com.br/hls/c32691d0f82911ea88136eda32aac929/video_1.m3u8
+#EXTINF:-1,Esporte Sangrento
+http://videos.nxplay.com.br/hls/4b312a64f75211eab45a5a0afa625915/video_1.m3u8
+#EXTINF:-1,KickBoxer: O Desafio do Dragão
+http://videos.nxplay.com.br/hls/c0795f2ef52e11eaa47dbec2fa2f0b80/video_1.m3u8
+#EXTINF:-1,Keoma
+http://videos.nxplay.com.br/hls/a5e82e32f50211eaadfb96ee8043de76/video_1.m3u8
+#EXTINF:-1,Agente 86
+http://videos.nxplay.com.br/hls/474fc3c6f50211ea9fce960e9a2d83d0/video_1.m3u8
+#EXTINF:-1,Howard o Super-Herói
+http://videos.nxplay.com.br/hls/7ec8a104f47d11ea9d68d2af0407f1a2/video_1.m3u8
+#EXTINF:-1,Resident Evil: O Hóspede Maldito
+http://videos.nxplay.com.br/hls/616d9554f45211eaad6b5eab1a4ed31c/video_1.m3u8
+#EXTINF:-1,Homem-Aranha
+http://videos.nxplay.com.br/hls/c39bc55aed7411eaa0aebe782d293e9d/video_1.m3u8
+#EXTINF:-1,Doom: A Porta do Inferno
+http://videos.nxplay.com.br/hls/0f85a676f1f711eaadf152920f2b401c/video_1.m3u8
+#EXTINF:-1,Jogo de Xadrez
+http://videos.nxplay.com.br/hls/d1126704e89a11eaa4a44a552f03d885/video_1.m3u8
+#EXTINF:-1,Alta Velocidade
+http://videos.nxplay.com.br/hls/0a9c3abae67811ea825c1a1ea1c175dd/video_1.m3u8
+#EXTINF:-1,Segurança Nacional
+http://videos.nxplay.com.br/hls/cf456fced43211eaa2b5223a26a91038/video_1.m3u8
+#EXTINF:-1,Este é Sledge: Uma História Não Contada
+http://videos.nxplay.com.br/hls/8ecd92f6cd1a11eabd553ab6cb026287/video_1.m3u8
+#EXTINF:-1,E.A.S. Esquadrão Antissequestro
+http://videos.nxplay.com.br/hls/12b5ca34cc8a11eaba29c283c241b67b/video_1.m3u8
+#EXTINF:-1,Um Tira da Pesada
+http://videos.nxplay.com.br/hls/5fb62d48805311eab5c44e11699a7964/video_1.m3u8
+#EXTINF:-1,O Corvo
+http://videos.nxplay.com.br/hls/bdf4269a805211eab8972eb24d8c48d7/video_1.m3u8
+#EXTINF:-1,Blade 3: O Caçador de Vampiros
+http://videos.nxplay.com.br/hls/0cd28f9c7db311eaa5ac9e69fceb3e9c/video_1.m3u8
+#EXTINF:-1,Blade 2: O Caçador de Vampiros
+http://videos.nxplay.com.br/hls/a6f1979e7db311eaa28376001c8408db/video_1.m3u8
+#EXTINF:-1,Mortal Kombat
+http://videos.nxplay.com.br/hls/0cb1b0407dab11eaacd4dafaff9d760c/video_1.m3u8
+#EXTINF:-1,Comando Delta
+http://videos.nxplay.com.br/hls/edb939f87aab11ea8b8172937a0a2854/video_1.m3u8
+#EXTINF:-1,O Imbatível
+http://videos.nxplay.com.br/hls/6b1dd0d0751f11ea8952da5dda2e9e99/video_1.m3u8
+#EXTINF:-1,O Agente
+http://videos.nxplay.com.br/hls/4b600404752211ea899092ddabbd1961/video_1.m3u8
+#EXTINF:-1,O Demolidor
+http://videos.nxplay.com.br/hls/3ad36fea738311eab6815a711b615e65/video_1.m3u8
+#EXTINF:-1,O Rei de Nova York
+http://videos.nxplay.com.br/hls/f6560d32738211eaac7326db010cdf66/video_1.m3u8
+#EXTINF:-1,Blade: O Caçador de Vampiros
+http://videos.nxplay.com.br/hls/218979e0738211ea8948969a4ff0f640/video_1.m3u8
+#EXTINF:-1,Rogue: O Assassino
+http://videos.nxplay.com.br/hls/131d38b8707311eabc7ef22f51296900/video_1.m3u8
+#EXTINF:-1,Herói
+http://videos.nxplay.com.br/hls/c2768716706d11eaa3a67a480b653c05/video_1.m3u8
+#EXTINF:-1,O Patriota
+http://videos.nxplay.com.br/hls/1138c498705711eaa9a15a46e43bc47f/video_1.m3u8
+#EXTINF:-1,Máscara Negra
+http://videos.nxplay.com.br/hls/79ef7b62705711ea85047e275be467e3/video_1.m3u8
+#EXTINF:-1,Rambo 3
+http://videos.nxplay.com.br/hls/4f1bff2c6b0311ea9c984248dcddfd51/video_1.m3u8
+#EXTINF:-1,Highlander: O Guerreiro Imortal
+http://videos.nxplay.com.br/hls/c9d2d9b06aff11eaa7af66c5cba5e06a/video_1.m3u8
+#EXTINF:-1,Rocky 2: A Revanche
+http://videos.nxplay.com.br/hls/c53731126aff11ea8501f299ff962438/video_1.m3u8
+#EXTINF:-1,Indiana Jones: Os Caçadores da Arca Perdida
+http://videos.nxplay.com.br/hls/d4cb899e565e11ea8ffc2e50d125ed06/video_1.m3u8
+#EXTINF:-1,Indiana Jones: E o Templo da Perdição
+http://videos.nxplay.com.br/hls/558cceb8565e11eaa96a7eca48c6dbb8/video_1.m3u8
+#EXTINF:-1,Indiana Jones: E a Última Cruzada
+http://videos.nxplay.com.br/hls/c29337c4565c11eabf3f0ab9d7dd4a6f/video_1.m3u8
+#EXTINF:-1,American Ninja 2: A Volta do Guerreiro Americano
+http://videos.nxplay.com.br/hls/84e32db04cd111ea808dd2364b69803f/video_1.m3u8
+#EXTINF:-1,Rocky 4
+http://videos.nxplay.com.br/hls/86bf384a4c7711ea929776327cf34ed3/video_1.m3u8
+#EXTINF:-1,Rocky 3: O Desafio Supremo
+http://videos.nxplay.com.br/hls/4f9ab17c4c6411ea88a02e362d22dae3/video_1.m3u8
+#EXTINF:-1,American Ninja: Guerreiro Americano
+http://videos.nxplay.com.br/hls/f3fb591c4c5d11eab1659243d98585c3/video_1.m3u8
+#EXTINF:-1,Comando para Matar
+http://videos.nxplay.com.br/hls/9b8fc0944c5611eaa6779243d98585c3/video_1.m3u8
+#EXTINF:-1,Stallone Cobra
+http://videos.nxplay.com.br/hls/9585f3e0478c11eab3974e0018df474f/video_1.m3u8
+#EXTINF:-1,Conan o Bárbaro
+http://videos.nxplay.com.br/hls/ed878660478411ea99a01265daf4e04a/video_1.m3u8
+#EXTINF:-1,A Máscara do Ninja
+http://videos.nxplay.com.br/hls/de778518477411eaa92be2e840bdcc76/video_1.m3u8
+#EXTINF:-1,O Grande Dragão Branco
+http://videos.nxplay.com.br/hls/c4f7f48c46cb11eaa4b186792b26878c/video_1.m3u8
+#EXTINF:-1,Second Skin: Matadora de Aluguel
+http://videos.nxplay.com.br/hls/fc25722a07fd11eaa8b52aa878bd6c04/video_1.m3u8
+#EXTINF:-1,Vingança Forçada
+http://videos.nxplay.com.br/hls/3696e31e07f711ea9efc0ecb373aded9/video_1.m3u8
+#EXTINF:-1,Trilha Indomável
+http://videos.nxplay.com.br/hls/58f6594407f211eab960ca3f139b51e5/video_1.m3u8
+#EXTINF:-1,Rota 666: A Estrada da Morte
+http://videos.nxplay.com.br/hls/9a929a5a07d611ea9d0b8695551edf58/video_1.m3u8
+#EXTINF:-1,Rangers: Força de Ataque
+http://videos.nxplay.com.br/hls/23a4369207d111ea9afb46a3f174faf5/video_1.m3u8
+#EXTINF:-1,Desejo de Matar 4
+http://videos.nxplay.com.br/hls/43dd573e07b511eaa9ce9668f8f6c3af/video_1.m3u8
+#EXTINF:-1,Desejo de Matar 3
+http://videos.nxplay.com.br/hls/53cae34207b411eab78b2abb7a20445e/video_1.m3u8
+#EXTINF:-1,Desejo de Matar 1
+http://videos.nxplay.com.br/hls/fc1a913a07b111ea9694d201bd4f9c81/video_1.m3u8
+#EXTINF:-1,Missão Quase Impossível: Uma Sátira aos Grandes Filmes de Hollywood
+http://videos.nxplay.com.br/hls/6500869e070011eaa011da8e2cce32b2/video_1.m3u8
+#EXTINF:-1,Texas Rangers: Acima da Lei
+http://videos.nxplay.com.br/hls/d355038e06ee11ea80d35af789f5c22f/video_1.m3u8
+#EXTINF:-1, Herança de Sangue
+https://www.googleapis.com/drive/v3/files/1pZFF0Ng-YOrf4gRqTmE876ZqAQi8iYey?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Jogo Duro
+https://www.googleapis.com/drive/v3/files/1EF88EH4IrhhIMbHy7KSZ-aB4Mcegoebv?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Nada Santo
+https://www.googleapis.com/drive/v3/files/18d3Cib_bj1TExpmewhgydAkJ-CXZBErr?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O Ultimo Samurai
+https://www.googleapis.com/drive/v3/files/1TL2VTwnCKEHAIWJsXV5rV1VC4wj0EToe?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Rede de Mentiras
+https://www.googleapis.com/drive/v3/files/1RrQihNBZ4JtPiLQtIalvou94Rl5iSia7?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Batman cavaleiro das trevas Resurge
+https://www.googleapis.com/drive/v3/files/0B3Q30jJQa39qTXRFLTdvMTg1aUk?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Hancock
+https://www.googleapis.com/drive/v3/files/1Ra6U8YF2jtxSZ-wQt4ks4xOY3yzgFIeO?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Esquadrao Suicida
+https://www.googleapis.com/drive/v3/files/0B0bHKR4prMIJQ1UyZ1dsdWcydjg?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Conexao Jamaica
+https://www.googleapis.com/drive/v3/files/1SGBmY5eBYSPjaZ4k1Qj-wcuUBYwPVbXq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Refem do Jogo
+https://www.googleapis.com/drive/v3/files/1xj-k5C8K-2YvcfbRKAnKM3A7eNwG8le-?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Bumblebee
+https://www.googleapis.com/drive/v3/files/1_VZnvg8dpFA5ZlJNQDk2zv08id68dPFc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Fim do Mundo
+https://www.googleapis.com/drive/v3/files/1UD8eVpQ1nftkkuQM9wFTPk99bSgYUDMI?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Covil de Ladres
+https://www.googleapis.com/drive/v3/files/1vUEJfz68JRFeDs2D0bCwJVl1xk-vnJIQ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Justiça Entre a Lei e a Vingança
+https://www.googleapis.com/drive/v3/files/1-EsK8LXQwK_gcRkaxb306aoZ6Kkg-Jnb?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Deadpool 2
+https://www.googleapis.com/drive/v3/files/11FJnQmDbo3jbPWgzg3UhCCNpWcTpxe_X?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Kamp Holland
+https://www.googleapis.com/drive/v3/files/1boo1AOeqi6hpRS_aCOSbXxQEsInBeHec?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Close
+https://www.googleapis.com/drive/v3/files/0Bw2_jyUzpJaGR1BSSlJCdE1YVHc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Gelo em Chamas
+https://www.googleapis.com/drive/v3/files/1FyxNpjEHiacIoeOj46Z8v0UxqBG1utk7?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Bom Race
+https://www.googleapis.com/drive/v3/files/1ooi2dKIpwwpmr96XcNOlLJKSsl98fJAR?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Uma Prece- antes do Amanhecer
+https://www.googleapis.com/drive/v3/files/1Am8GqDGiXA2Paq4ojQLuqgqBxL4hSgZe?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Crimes na Madrugada
+https://www.googleapis.com/drive/v3/files/1EFm2BWQENXCAmIhuB_JlRm7pq2llQL3j?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Encantado
+https://www.googleapis.com/drive/v3/files/1Azm5JubxYJsKzGNRbqEn_1lF_K4EQGZ-?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Irmao Urso
+https://www.googleapis.com/drive/v3/files/15tOwtnDBBi4zoHWHM1MGTXqTeIMN88Gd?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Frozen uma Aventura Congelante
+https://www.googleapis.com/drive/v3/files/0B1ajV4yek-QvTF9fc3ZuMmVPT28?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, A Menina e o Leão
+https://www.googleapis.com/drive/v3/files/112W2RjsBYCRlDl-aBwM23e7tYBl9Phiz?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Missao Amsterdan
+https://www.googleapis.com/drive/v3/files/1oRaKVZYCJIV2tD6_K5047GdfXFXSoPbv?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Mamma Mia
+https://www.googleapis.com/drive/v3/files/1O_-gTpnixXTIdnO6P7RBT8kRmHoHOSa_?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Amarican pie
+https://www.googleapis.com/drive/v3/files/1DNfElPy0NPOvGaTxYrPvD40RLNYJJib6?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Tal Pai Tal Filha
+https://www.googleapis.com/drive/v3/files/196QE7vbU9qyNnoyBxpn42fF3biPCBwvc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Pai em Dose Dupla
+https://www.googleapis.com/drive/v3/files/1IRxJplzjeTTapNb5Yh7sZ2kXCutzKvzH?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Quando Nos nos conhecemos
+https://www.googleapis.com/drive/v3/files/16FCk4jo-wsIXCQerR2p9dhSuAMUFIjTc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O Soldado de Cristo
+https://www.googleapis.com/drive/v3/files/11fSHuIWHCoJFpxEYEFC5zkvKq9b-8rXL?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Nosso Fiel Traidor
+https://www.googleapis.com/drive/v3/files/1OLunw85n8cv3aSM8au-GnZSDt3MSRvl9?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Bad Match
+https://www.googleapis.com/drive/v3/files/1r5aWxko5SoKlsS3KBV9zqHUtLtECGo5-?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Todos Ja Sabem
+https://www.googleapis.com/drive/v3/files/1Ve7FcYqti1_psN9rsbV5-QV_E3__Ig3H?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Dia de Treinamento
+https://www.googleapis.com/drive/v3/files/1AaIP2WTSIjioInH41jtpBqCAASpX-h6Y?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Desejo Fatal
+https://www.googleapis.com/drive/v3/files/1cLSyXOFHYVzXTJob1sJq29oJUMgr1_uR?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, A Ultima Resistencia
+https://www.googleapis.com/drive/v3/files/1bPmiFmGVpzU5AFZBQ6Rb5UaSfJFa3rrT?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Cavaleiro de Copas
+https://www.googleapis.com/drive/v3/files/0B7yp2plKoKp6bHpOQ2JBV1Rpd2c?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Donnybrook luta Pel aRedençao
+https://www.googleapis.com/drive/v3/files/1WTngdBAg94DPhLxSve7fJ-udAfRumI-u?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Uma Criança como Jake
+https://www.googleapis.com/drive/v3/files/1JHeEoPdNfzSOvENZfjfPJo_U89ntJ-CI?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O Conde de Monte Cristo
+https://www.googleapis.com/drive/v3/files/0B3c12gWvcBDEVWdpNG9BWkxlaFk?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O ultimo Desejo
+https://www.googleapis.com/drive/v3/files/1rcOdtx8nID1YPieh7xqajyrWEXX096rR?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O Peso do Passado
+https://www.googleapis.com/drive/v3/files/1g_Me_8alSb3CALEL-4W_O_4jCVwgyCBQ?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O Buraco
+https://www.googleapis.com/drive/v3/files/1c8u5lAd6Sp8gLvOX9TXFRDzIOlXV4ZyM?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Dia de Trabalho Mortal
+https://www.googleapis.com/drive/v3/files/1VS2MDwABVENQQ7pLM3FL8PR0Qm-tQ8Qp?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Vidro
+https://www.googleapis.com/drive/v3/files/1kmwGZtx6vLZI4azhir05u1ftIXEOvRh8?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, A Pele Fria
+https://www.googleapis.com/drive/v3/files/1qUGu3yyJbX--tcBukcPN5LHh_Wj-3rbz?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Boy Erased uma verdade Anulada
+https://www.googleapis.com/drive/v3/files/1ALKF0m9WdfQwsTGoyGU7FBSOxlvsUQtG?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Lutando Pela Vida
+https://www.googleapis.com/drive/v3/files/18IuyrlaqMAUlvakaNchiS66s8W-ncrvh?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, A Mumia
+https://www.googleapis.com/drive/v3/files/1lRI5m4fWsRCP-yE5J9doc18lDTgHmxxO?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Guerra dos Mundos
+https://www.googleapis.com/drive/v3/files/1gmbE4zCrggnP2867EvVdBoepz4AnEgQT?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Jumanji
+https://www.googleapis.com/drive/v3/files/0B3r-OLNwVGmXU002MGduNzgySU0?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Valerian e a Cidade dos Mil Planetas
+https://www.googleapis.com/drive/v3/files/1-6LSZ02Cjv_JDtOQvyuINpGDHecLrEoD?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Eu Robo
+https://www.googleapis.com/drive/v3/files/1_kj5i0-DRIWTDHvMgpMwaEJtsdOzLxxu?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Gigantes de Aço
+https://www.googleapis.com/drive/v3/files/1GgxfFUp-1WqRIsSKvHF76H4IGugpdYVs?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Bloodshot Dublado
+https://www.googleapis.com/drive/v3/files/1HFMv4lUexBJxBut-a6Pc-fxv-c4QQ-sq?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Joker
+https://www.googleapis.com/drive/v3/files/1isN6CXg1EHZ5MEtVvxSJWRQ7Ci5VsxNM?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Homem Aranha de volta ao Lar
+https://www.googleapis.com/drive/v3/files/1Jau1fJBtz6QZ3KtsdSaDG6iPO0hWZKlN?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Guardioes da Galaxia 2
+https://www.googleapis.com/drive/v3/files/1XikbRT8PiXFS-oJ_9WQ6lP2hFMvU8H7bog?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Tropa de Elite
+https://www.googleapis.com/drive/v3/files/1a9TVLpcfCXhlihOpVYmGFcL33TL6-Rm2?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Chorar de Rir
+https://www.googleapis.com/drive/v3/files/1KSzwJxmC5xjlh9GkCBruXp9tRrGW93Xv?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Minha Mae e uma Peça 2
+https://www.googleapis.com/drive/v3/files/1gzrzgcQvhTkeKfBWq6zQhAyvH-qqOvRV?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Descendente 3
+https://www.googleapis.com/drive/v3/files/1FlsR8nr-Ds1XBkfEeZPZr4_MeKRNrDrP?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, A Culpa e das Estrelas
+https://www.googleapis.com/drive/v3/files/1MIuLHwc7N61ipDpb7jPHQEXsCSJaXX1m?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Paixao Real
+https://www.googleapis.com/drive/v3/files/1vsMONM7NHpfY7rMrhDO4UFEfTa92QeNg?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Era Uma Vez Um Principe
+https://www.googleapis.com/drive/v3/files/10pnLTvyQGi7cuM0dz6wm1kloTC5Pr1yR?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Meu Bebe e o Diabo
+https://www.googleapis.com/drive/v3/files/1Cy5rZ6QifKHdq8JDvJwiyNZR1kth_7b2?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O Resnascimento do Dracula
+https://www.googleapis.com/drive/v3/files/1-Rp9m1MOcaNEPR8yHim-RVwlICFN9diG?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, A Morte do Demonio
+https://www.googleapis.com/drive/v3/files/1siRPvdijJU_5ZmCM6KbiAVsYDfbGhmLK?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Seguidores Macabros
+https://www.googleapis.com/drive/v3/files/1lx1Khx1AqN6bbXTH-wUzw_BSRk83MehX?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Atividade Paranormal 4
+https://www.googleapis.com/drive/v3/files/1SGG3A73dFCP5e_2PZCDAwagkUvPahn3w?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, O Filho de Chucky
+https://www.googleapis.com/drive/v3/files/1YNOUf6nuDz4zkZiVkv7y-5VBEGL0xv8T?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Escola da Morte
+https://www.googleapis.com/drive/v3/files/1S3KDKJ5zNExvkDT7XPbhR2zEJsRfmIcL?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, NATUREZA ASSASSINA
+https://www.googleapis.com/drive/v3/files/1vT-AYBVYVyW-EAwOFsqNNIWorZ0gDRU_?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, A Casa do Medo – Incidente em Ghostland
+https://www.googleapis.com/drive/v3/files/1ikuW4jeNCASI39XUspDN9hMco067SGpc?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Panico na Floresta 3
+https://www.googleapis.com/drive/v3/files/0B5kz261eDr-teV8zTnhGU1k1ZGs?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Crimes na Escola
+https://www.googleapis.com/drive/v3/files/1xmm3kbiiBAGlvi78wHnKkkDBFDhxcSI8?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1, Brightburn filho das trevas
+https://www.googleapis.com/drive/v3/files/1iQxE5fqaZroGvAGHA3AQJfbMvNQpoLhx?alt=media&key=AIzaSyC7MtcqLfd5k2eQgzbd2vSAoFmOl_nyVBs
+#EXTINF:-1,Sex Prive
+http://free-srv3.pjtiptv.tk/live/prive/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Sexy Hot
+http://free-srv3.pjtiptv.tk/live/sexy/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Venus
+http://free-srv3.pjtiptv.tk/live/venus/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Jasmin.TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Miami TV
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Fetish
+http://live.redtraffic.xyz/fetish.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Interracial
+http://live.redtraffic.xyz/interracial.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Latina
+http://live.redtraffic.xyz/latina.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX MILF
+http://live.redtraffic.xyz/milf.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX POV
+http://live.redtraffic.xyz/pov.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Russian
+http://live.redtraffic.xyz/russian.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Teen
+http://live.redtraffic.xyz/teen.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX Threesome
+http://live.redtraffic.xyz/threesome.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX TRANS 1
+https://www.ast.tv/stream/1/cellular.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX TRANS 1 HD
+https://www.ast.tv/stream/1/high.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX TRANS 1 FHD
+https://www.ast.tv/stream/1/ultra.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX TRANS 2
+https://www.ast.tv/stream/2/cellular.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX TRANS 2 HD
+https://www.ast.tv/stream/2/high.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,XXX TRANS 2 FHD
+https://www.ast.tv/stream/2/ultra.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1,Rádio R&B
+https://stream.vagalume.fm/hls/1467745876337223/aac.m3u8
+#EXTINF:-1,Rádio K-Pop
+https://stream.vagalume.fm/hls/14660048951600695455/aac.m3u8
+#EXTINF:-1,Rádio Folk
+https://stream.vagalume.fm/hls/1470155259220668/aac.m3u8
+#EXTINF:-1,Rádio Gospel Internacional
+https://stream.vagalume.fm/hls/1470245767122628/aac.m3u8
+#EXTINF:-1,Rádio Gospel
+https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
+#EXTINF:-1,Rádio Reggae
+https://stream.vagalume.fm/hls/1465840912218182609/aac.m3u8
+#EXTINF:-1,Rádio Rock
+https://stream.vagalume.fm/hls/14647977281792658143/aac.m3u8
+#EXTINF:-1,Rádio Forró
+https://stream.vagalume.fm/hls/147015501223418/aac.m3u8
+#EXTINF:-1,Rádio Pop
+https://stream.vagalume.fm/hls/14660050141766497579/aac.m3u8
+#EXTINF:-1,Rádio Latina
+https://stream.vagalume.fm/hls/1478199774246251/aac.m3u8
+#EXTINF:-1,Rádio Eletrônica
+https://stream.vagalume.fm/hls/146411300413492499/aac.m3u8
+#EXTINF:-1,Rádio Hip-Hop
+https://stream.vagalume.fm/hls/1470155107337444/aac.m3u8
+#EXTINF:-1,Rádio Pop Rock
+https://stream.vagalume.fm/hls/1506975770142563/aac.m3u8
+#EXTINF:-1,Rádio Funk
+https://stream.vagalume.fm/hls/1470154922349875/aac.m3u8
+#EXTINF:-1,Rádio Pagode
+https://stream.vagalume.fm/hls/147015499779090/aac.m3u8
+#EXTINF:-1,Rádio Rock
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:-1,Rádio MPB
+https://stream.vagalume.fm/hls/1470154983100588/aac.m3u8
+#EXTINF:-1,Rádio Sertanejo
+https://stream.vagalume.fm/hls/14619606471054026608/aac.m3u8
+#EXTINF:-1,Rádio Sertanejo Romântico
+https://stream.vagalume.fm/hls/1499715905423293/aac.m3u8
+#EXTINF:-1,Rádio Anos 80
+https://stream.vagalume.fm/hls/1507663468882713/aac.m3u8
+#EXTINF:-1,Rádio Anos 90
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:-1,Rádio Anos 2000
+https://stream.vagalume.fm/hls/147396460892793/aac.m3u8
+#EXTINF:-1,Rádio Pop Nacional
+https://stream.vagalume.fm/hls/1470169276225492/aac.m3u8
+#EXTINF:-1,Rádio Pop Rock Nacional
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:-1,Rádio J-Pop
+https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:-1,Rádio Românticas
+https://stream.vagalume.fm/hls/1470155219129532/aac.m3u8
+#EXTINF:-1,Rádio Disney FM
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+#EXTINF:-1,Rádio Mega FM
+http://216-155-149-152.webnow.com.br:80/mega.mp3
+#EXTINF:-1,Rádio Trianon AM
+http://afiliadamix2.crossradio.com.br:9008/;
+#EXTINF:-1,Rádio Cultura AM
+http://tvcultura.com.br/_radio/streaming.php?radio=am
+#EXTINF:-1,Rádio Bandeirantes AM
+http://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
+#EXTINF:-1,Rádio Metropolitana FM
+http://74.63.237.85:8598/live
+#EXTINF:-1,Rádio Antena 1 FM
+http://antena1.newradio.it/stream?1519462006844
+#EXTINF:-1,Rádio Feliz FM
+http://felizfm.sateg.com.br:11520/stream/1/
+#EXTINF:-1,Rádio Band FM
+http://evpp.mm.uol.com.br/band/bandfm_sp/playlist.m3u8
+#EXTINF:-1,Rádio News FM
+http://evpp.mm.uol.com.br/band/bandnewsfm_sp/playlist.m3u8
+#EXTINF:-1,Rádio Nativa FM
+http://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
+#EXTINF:-1,Rádio Band Vale FM
+http://evpp.mm.uol.com.br/band/bandvale/playlist.m3u8
+#EXTINF:-1,Rádio Alegria FM
+http://stream.ouveai.com.br:8061/;
+#EXTINF:-1,Rádio Itapema FM
+http://82747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/ita_poa.sdp/playlist.m3u8
+#EXTINF:-1,Rádio Novo Tempo FM
+http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
+#EXTINF:-1,Rádio Atlântida FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1,Rádio Farroupilha FM/AM
+http://92747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/far_poa.sdp/playlist.m3u8
+#EXTINF:-1,Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1,Rádio Jovem Pan FM
+http://centova6.ciclanohost.com.br:9256/;
+#EXTINF:-1,Rádio Eldorado FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:-1,Rádio Liberdade FM
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:-1,Rádio Princesa FM
+http://noasrv.caster.fm:10124/stream
